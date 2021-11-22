@@ -1,0 +1,33 @@
+body{
+    font-family: monospace;
+    color: white;
+    background-color: black;
+}
+
+h1{
+    text-align: center;
+    font-size: 40px;
+    color: purple;
+    padding: 10px;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+h2,h4{
+    font-family: monospace;
+    font-size: 30px;
+    color: purple;
+    font-weight: bold;
+    padding-bottom: 10px;
+}
+
+p{
+    font-size: 20px;
+    color: aquamarine;
+
+}
+
+ol,ul{
+    font-size: 18px;
+    color: yellowgreen;
+}
